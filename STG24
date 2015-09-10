@@ -1,0 +1,53 @@
+[Adblock Plus 2.0]
+! Title: STG24
+! Version: 1.0
+! Last modified: 9 Sep 2015 9:19 UTC
+! Expires: 1 days (update frequency)
+! Homepage: http://www.blogger.com/
+! Licence: STG
+!
+! ---------- Generic Blocking Rules ----------
+!
+sports-x.net###banner
+sports-x.net##.ad2
+crichd.tv###floatLayer2
+biggestplayer.me##.cuadrado.rmv
+biggestplayer.me##.vertical.rmv
+tv4embed.com###bannerfloat5
+tv4embed.com###bannerfloat2
+wiz1.net###floatLayer1
+streamhd.eu###html3
+streamhd.eu###html1
+hdcast.org###over
+hdcast.org##IMG[src="http://www.hdcast.org/closeButton.png"]
+hdcast.org##IMG[src="http://www.hdcast.org/images/close_button.png"]
+bein-streams.com###bannerfloat22
+tashtv.net###moj
+popeoftheplayers.eu###html4
+||playerpage671.info^
+biggestplayer.me##.masc
+||rarbg.to/pp1_r.php$popup
+yocast.tv##CENTER
+!
+! ---------- ifirstrow.eu ----------
+!
+||ifilez.org/static/output/js/*
+gofirstrow.eu##.mc-modal-bg
+gofirstrow.eu##.mc-closeModal
+gofirstrow.eu###SignupForm_0
+gofirstrow.eu###fan-exit
+gofirstrow.eu###fanback
+gofirstrow.eu##.mc-layout__modalContent
+gofirstrow.eu##.mc-modal
+ifirstrow.eu##.mc-modal-bg
+ifirstrow.eu##.mc-closeModal
+ifirstrow.eu###SignupForm_0
+ifirstrow.eu###fan-exit
+ifirstrow.eu###fanback
+ifirstrow.eu##.mc-layout__modalContent
+ifirstrow.eu##.mc-modal
+!
+! ---------- prijevodi-online.org ----------
+!
+||player.vid4u.org^
+||video.vid4u.org^
