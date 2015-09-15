@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: STG24
 ! Version: 1.0
-! Last modified: 15 Sep 2015 14:40 CET
+! Last modified: 15 Sep 2015 14:45 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.blogger.com/
 ! Licence: STG
@@ -26,7 +26,6 @@ tashtv.net###moj
 popeoftheplayers.eu###html4
 ||playerpage671.info^
 biggestplayer.me##.masc
-||rarbg.to/pp1_r.php$popup
 yocast.tv##CENTER
 !
 ! ---------- ifirstrow.eu ----------
@@ -47,7 +46,7 @@ ifirstrow.eu###fanback
 ifirstrow.eu##.mc-layout__modalContent
 ifirstrow.eu##.mc-modal
 !
-! ---------- VIPLeague ----------
+! ---------- vipleague.me ----------
 !
 vipleague.se,vipleague.me##STYLE + SPAN > DIV:first-child
 !
@@ -55,3 +54,6 @@ vipleague.se,vipleague.me##STYLE + SPAN > DIV:first-child
 !
 ||player.vid4u.org^
 ||video.vid4u.org^
+!
+! ---------- rarbg.to ----------
+||rarbg.to/pp1_r.php$popup
