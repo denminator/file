@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: STG24
 ! Version: 1.0
-! Last modified: 11 Sep 2015 21:54 CET
+! Last modified: 15 Sep 2015 14:40 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.blogger.com/
 ! Licence: STG
 !
-! ---------- Generic Blocking Rules ----------
+! ---------- Startrekgate24 ----------
 !
 sports-x.net###banner
 sports-x.net##.ad2
@@ -46,6 +46,10 @@ ifirstrow.eu###fan-exit
 ifirstrow.eu###fanback
 ifirstrow.eu##.mc-layout__modalContent
 ifirstrow.eu##.mc-modal
+!
+! ---------- VIPLeague ----------
+!
+vipleague.se,vipleague.me##STYLE + SPAN > DIV:first-child
 !
 ! ---------- prijevodi-online.org ----------
 !
