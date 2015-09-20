@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: STG24
 ! Version: 1.0
-! Last modified: 15 Sep 2015 14:55 CET
+! Last modified: 20 Sep 2015 20:00 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.blogger.com/
 ! Licence: STG
@@ -27,6 +27,7 @@ popeoftheplayers.eu###html4
 ||playerpage671.info^
 biggestplayer.me##.masc
 yocast.tv##CENTER
+yocast.tv###floatLayer2
 !
 ! ---------- ifirstrow.eu ----------
 !
