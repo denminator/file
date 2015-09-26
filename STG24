@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: STG24
 ! Version: 1.0
-! Last modified: 21 Sep 2015 17:50 CET
+! Last modified: 26 Sep 2015 02:18 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.blogger.com/
 ! Licence: STG
@@ -56,6 +56,10 @@ vipleague.se,vipleague.me##STYLE + SPAN > DIV:first-child
 !
 ||player.vid4u.org^
 ||video.vid4u.org^
+!
+! ---------- titlovi.com ----------
+!
+||mojtv.net/?*$popup
 !
 ! ---------- rarbg.to ----------
 !
