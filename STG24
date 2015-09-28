@@ -1,16 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: STG24
-! Version: 1.0
-! Last modified: 26 Sep 2015 02:27 CET
+! Last modified: 28 Sep 2015 02:40 UTC
 ! Expires: 1 days (update frequency)
-! Homepage: http://www.blogger.com/
+! Homepage: startrekgate24.blogspot.rs
 ! Licence: STG
 !
 ! ---------- Startrekgate24 ----------
 !
 sports-x.net###banner
 sports-x.net##.ad2
-crichd.tv###floatLayer2
 biggestplayer.me##.cuadrado.rmv
 biggestplayer.me##.vertical.rmv
 tv4embed.com###bannerfloat5
@@ -27,7 +25,8 @@ popeoftheplayers.eu###html4
 ||playerpage671.info^
 biggestplayer.me##.masc
 yocast.tv##CENTER
-@@||crichd.tv^$elemhide
+yocast.tv###floatLayer2
+crichd.tv###floatLayer2
 @@.gif#$domain=crichd.tv
 !
 ! ---------- ifirstrow.eu ----------
