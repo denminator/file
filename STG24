@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: STG24
-! Last modified: 9 Oct 2015 01:30 UTC
+! Last modified: 10 Oct 2015 15:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.rs
 ! Licence: STG
@@ -11,6 +11,9 @@ sports-x.net###banner
 sports-x.net##.ad2
 biggestplayer.me##.cuadrado.rmv
 biggestplayer.me##.vertical.rmv
+biggestplayer.me##.masc
+biggestplayer.me##.bern
+biggestplayer.me##.porong
 tv4embed.com###bannerfloat5
 tv4embed.com###bannerfloat2
 wiz1.net###floatLayer1
@@ -23,11 +26,13 @@ bein-streams.com###bannerfloat22
 tashtv.net###moj
 popeoftheplayers.eu###html4
 ||playerpage671.info^
-biggestplayer.me##.masc
 yocast.tv##CENTER
 yocast.tv###floatLayer2
 crichd.tv###floatLayer2
 @@.gif#$domain=crichd.tv
+xstream.click##.vidcol
+xstream.click###floatLayer2
+hdfree.tv###floatLayer1
 !
 ! ---------- ifirstrow.eu ----------
 !
