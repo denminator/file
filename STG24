@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: STG24
-! Last modified: 5 Nov 2015 22:10 UTC
+! Last modified: 23 Nov 2015 1:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.rs
 ! Licence: STG
@@ -68,6 +68,7 @@ vipleague.se,vipleague.me##STYLE + SPAN > DIV:first-child
 ! ---------- titlovi.com ----------
 !
 ||mojtv.net/*$popup
+titlovi.com###video_tag_mojtv
 !
 ! ---------- rapidmoviez.com ----------
 !
