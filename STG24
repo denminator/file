@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: STG24
-! Last modified: 23 Nov 2015 1:00 UTC
+! Last modified: 13 Dec 2015 1:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.rs
 ! Licence: STG
@@ -29,6 +29,7 @@ popeoftheplayers.eu###html4
 yocast.tv##CENTER
 yocast.tv###floatLayer2
 crichd.tv###floatLayer2
+crichd.tv###notice
 @@.gif#$domain=crichd.tv
 xstream.click##.vidcol
 xstream.click###floatLayer2
