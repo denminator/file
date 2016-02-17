@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: STG24
-! Last modified: 21 Jan 2016 16:50 UTC
+! Last modified: 17 Feb 2016 23:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.rs
 ! Licence: STG
@@ -20,9 +20,8 @@ tv4embed.com###bannerfloat2
 wiz1.net###floatLayer1
 streamhd.eu###html3
 streamhd.eu###html1
-hdcast.org###over
-hdcast.org##IMG[src="http://www.hdcast.org/closeButton.png"]
-hdcast.org##IMG[src="http://www.hdcast.org/images/close_button.png"]
+hdcast.info###notice
+hdcast.info###floatLayer2
 bein-streams.com###bannerfloat22
 tashtv.net###moj
 popeoftheplayers.eu###html4
