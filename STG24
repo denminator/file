@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: STG24
-! Last modified: 31 Mar 2016 16:37 UTC
+! Last modified: 31 Mar 2016 17:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.rs
 ! Licence: STG
@@ -93,4 +93,5 @@ torrentz.com##DIV[style$="cursor: pointer;"]
 mystreans.com###bannerfloat
 mystreans.com###close1
 mystreans.com###closeAdButton2
+sharecast.eu###table1
 !
