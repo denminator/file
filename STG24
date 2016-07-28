@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: STG24
-! Last modified: 22 July 2016 23:13 UTC
+! Last modified: 28 July 2016 09:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.rs
 ! Licence: STG
@@ -71,9 +71,9 @@ titlovi.com###video_tag_mojtv
 !
 ! ---------- rapidmoviez.com ----------
 !
-rapidmoviez.com##.ab-alert
-||rapidmoviez.com/actions/click/wpr$popup
-rapidmoviez.com###latest_episodes_fuck_adblock
+rmz.cr##.ab-alert
+||rmz.cr/actions/click/wpr$popup
+rmz.cr###latest_episodes_fuck_adblock
 ||rapidrar.com/wpr$popup
 !
 ! ---------- livetv.sx ----------
