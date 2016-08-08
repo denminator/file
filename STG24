@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: STG24
-! Last modified: 8 August 2016 04:30 UTC
+! Last modified: 8 August 2016 19:57 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.rs
 ! Licence: STG
@@ -116,4 +116,8 @@ batmanstream.com##DIV[style="height: 90px;width: 728px;position: fixed;bottom: 0
 !
 @@||uploadrocket.net^$generichide
 @@||uploadrocket.net/ads.js
+!
+! ---------- thepiratebay.org ----------
+!
+||thepiratebay.org/static/js/pop-test.js
 !
