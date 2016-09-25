@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: STG24
-! Last modified: 23 September 2016 19:20 UTC
+! Last modified: 25 September 2016 20:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.rs
 ! Licence: STG
@@ -37,24 +37,6 @@ hdfree.tv###floatLayer1
 cast4u.tv###notice
 cast4u.tv###floatLayer2
 !
-! ---------- ifirstrow.eu ----------
-!
-||ifilez.org/static/output/js/*
-gofirstrow.eu##.mc-modal-bg
-gofirstrow.eu##.mc-closeModal
-gofirstrow.eu###SignupForm_0
-gofirstrow.eu###fan-exit
-gofirstrow.eu###fanback
-gofirstrow.eu##.mc-layout__modalContent
-gofirstrow.eu##.mc-modal
-ifirstrow.eu##.mc-modal-bg
-ifirstrow.eu##.mc-closeModal
-ifirstrow.eu###SignupForm_0
-ifirstrow.eu###fan-exit
-ifirstrow.eu###fanback
-ifirstrow.eu##.mc-layout__modalContent
-ifirstrow.eu##.mc-modal
-!
 ! ---------- prijevodi-online.org ----------
 !
 ||player.vid4u.org^
@@ -84,13 +66,6 @@ privatestream.tv###timer3
 ||privatestream.tv/logo.php?*
 ||privatestream.tv/adl?*
 !
-! ---------- mystreans ----------
-!
-mystreans.com###bannerfloat
-mystreans.com###close1
-mystreans.com###closeAdButton2
-sharecast.eu###table1
-!
 ! ---------- sport365.live ----------
 !
 ||track.villabet.com^$popup
@@ -116,10 +91,4 @@ batmanstream.com##DIV[style="height: 90px;width: 728px;position: fixed;bottom: 0
 ! ---------- extratorrent.cc ----------
 !
 extratorrent.cc##[style="display:none"] + DIV
-!
-! ---------- streamgaroo.com ----------
-!
-streamgaroo.com###ads
-streamgaroo.com##.a-el
-streamgaroo.com###at4-share
 !
