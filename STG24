@@ -1,94 +1,16 @@
 [Adblock Plus 2.0]
-! Title: STG24
-! Last modified: 25 September 2016 20:55 UTC
+! Title: den78
+! Last modified: 9 November 2016 11:15 CET
 ! Expires: 1 days (update frequency)
-! Homepage: startrekgate24.blogspot.rs
+! Homepage: startrekgate24.blogspot.com
 ! Licence: STG
 !
-! ---------- Startrekgate24 ----------
+! rarbg.to
+@@||dyncdn.me/static/20/js$script,domain=rarbg.to
 !
-sports-x.net###banner
-sports-x.net##.ad2
-biggestplayer.me##.cuadrado.rmv
-biggestplayer.me##.vertical.rmv
-biggestplayer.me##.masc
-biggestplayer.me##.bern
-biggestplayer.me##.porong
-biggestplayer.me##.pipi
-tv4embed.com###bannerfloat5
-tv4embed.com###bannerfloat2
-wiz1.net###floatLayer1
-streamhd.eu###html3
-streamhd.eu###html1
-hdcast.info###notice
-hdcast.info###floatLayer2
-bein-streams.com###bannerfloat22
-tashtv.net###moj
-popeoftheplayers.eu###html4
-||playerpage671.info^
-yocast.tv##CENTER
-yocast.tv###floatLayer2
-crichd.tv###floatLayer2
-crichd.tv###notice
-@@.gif#$domain=crichd.tv
-xstream.click##.vidcol
-xstream.click###floatLayer2
-hdfree.tv###floatLayer1
-cast4u.tv###notice
-cast4u.tv###floatLayer2
+! titlovi.com
+||www.povezano.com$script,domain=titlovi.com
+titlovi.com##a[href^="http://mojtv.net/"]
 !
-! ---------- prijevodi-online.org ----------
-!
-||player.vid4u.org^
-||video.vid4u.org^
-!
-! ---------- rarbg.to ----------
-!
-||rarbg.to/pp1_r.php$popup
-!
-! ---------- titlovi.com ----------
-!
-||mojtv.net/*$popup
-titlovi.com###video_tag_mojtv
-||povezano.com^
-!
-! ---------- rapidmoviez.com ----------
-!
-rmz.cr##.ab-alert
-||rmz.cr/actions/click/wpr$popup
-rmz.cr###latest_episodes_fuck_adblock
-||rapidrar.com/wpr$popup
-!
-! ---------- livetv.sx ----------
-!
-privatestream.tv###timer1
-privatestream.tv###timer3
-||privatestream.tv/logo.php?*
-||privatestream.tv/adl?*
-!
-! ---------- sport365.live ----------
-!
-||track.villabet.com^$popup
-||adshell.net^$popup
-||tags2.adshell.net^$popup
-!
-! ---------- batmanstream.com ----------
-!
-|http://www.batmanstream.com/competition.html$popup
-||batmanstream.com/competition.js?*
-batmanstream.com##DIV[style="position:fixed;bottom:18px;left:316px; display:block !important; width:728px;height:90px;visibility: visible !important;"]
-batmanstream.com##DIV[style="height: 90px;width: 728px;position: fixed;bottom: 0px;margin-left: 50%;left: -364px;"]
-!
-! ---------- uploadrocket.net ----------
-!
-@@||uploadrocket.net^$generichide
-@@||uploadrocket.net/ads.js
-!
-! ---------- thepiratebay.org ----------
-!
-||thepiratebay.org/static/js/pop-test.js
-!
-! ---------- extratorrent.cc ----------
-!
-extratorrent.cc##[style="display:none"] + DIV
-!
+! facebook.com
+www.facebook.com##._1wcc
