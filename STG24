@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 3. februar 2016. 18:26 CET
+! Last modified: 3. februar 2016. 19:13 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: STG
@@ -19,6 +19,8 @@ www.facebook.com##._1wcc
 ||vid4u.org$domain=www.prijevodi-online.org
 !
 ! Pop-ups
+||cloudfront.net$domain=psarips.com
+||cloudfront.net$domain=www.balkandownload.org
 @@about:blank$popup,domain=psarips.com
 @@about:blank$popup,domain=www.balkandownload.org
 ||popupads.net$script,domain=psarips.com
