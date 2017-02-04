@@ -17,3 +17,11 @@ www.facebook.com##._1wcc
 !
 ! prijevodi-online.org
 ||vid4u.org$domain=www.prijevodi-online.org
+!
+! Pop-ups
+||cloudfront.net$domain=psarips.com
+||cloudfront.net$domain=www.balkandownload.org
+@@about:blank$popup,domain=psarips.com
+@@about:blank$popup,domain=www.balkandownload.org
+||popupads.net$script,domain=psarips.com
+||srvr.work$script,domain=www.balkandownload.org
