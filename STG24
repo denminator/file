@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 4 april 2017 08:22 CET
+! Last modified: 4 april 2017 14:30 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: STG
@@ -32,6 +32,7 @@ www.opensubtitles.org###fadeSub
 !liveonlinetv247.info
 www.liveonlinetv247.info###bannerfloat1
 www.liveonlinetv247.info###bannerfloat2
+||creative.speednetwork1.com$script,domain=www.liveonlinetv247.info
 !
 !livesport.pw
 ||livesport.pw/uppod/ads.js$script
