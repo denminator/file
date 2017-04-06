@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 5 april 2017 22:51 CET
+! Last modified: 6 april 2017 21:00 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: STG
@@ -15,8 +15,10 @@ titlovi.com##a[href^="http://mojtv.net/"]
 ! facebook.com
 www.facebook.com##._1wcc
 www.facebook.com###mobile_mirror_banner
+www.facebook.com###u_0_1
 www.facebook.com###u_0_3
 www.facebook.com###u_0_4s
+www.facebook.com###u_0_6
 !
 ! prijevodi-online.org
 ||vid4u.org$domain=www.prijevodi-online.org
