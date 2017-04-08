@@ -1,51 +1,50 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 6 april 2017 21:00 CET
+! Last modified: 8 april 2017 06:16 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: STG
-!
-! rarbg.to
+
+!---rarbg.to---!
 @@||dyncdn.me/static/20/js$script,domain=rarbg.to
-!
-! titlovi.com
+
+!---titlovi.com
 ||www.povezano.com$script,domain=titlovi.com
 titlovi.com##a[href^="http://mojtv.net/"]
-!
-! facebook.com
+
+!---facebook.com---!
 www.facebook.com##._1wcc
 www.facebook.com###mobile_mirror_banner
 www.facebook.com###u_0_1
 www.facebook.com###u_0_3
 www.facebook.com###u_0_4s
 www.facebook.com###u_0_6
-!
-! prijevodi-online.org
+
+!---prijevodi-online.org---!
 ||vid4u.org$domain=www.prijevodi-online.org
-!
-! Pop-ups
+
+!---Pop-ups---!
 ||cloudfront.net$domain=psarips.com
 ||cloudfront.net$domain=www.balkandownload.org
-!
-!opensubtitles.org
+
+!---opensubtitles.org---!
 www.opensubtitles.org###lightSub
 www.opensubtitles.org###fadeSub
-!
-!liveonlinetv247.info
+
+!---liveonlinetv247.info---!
 www.liveonlinetv247.info###bannerfloat1
 www.liveonlinetv247.info###bannerfloat2
 ||creative.speednetwork1.com$script,domain=www.liveonlinetv247.info
-!
-!livesport.pw
+
+!---livesport.pw---!
 ||livesport.pw/uppod/ads.js$script
 ||livesport.pw/uppod/loader.js$script
 ||livesport.pw/uppod/block.js$script
-!
-!tv4embed.com
+
+!---tv4embed.com---!
 realmadridlive.in###vad
 tv4embed.com###bannerfloat5
 tv4embed.com###bannerfloat2
-!
-!filmon.com
+
+!---filmon.com---!
 filmon.com##.subscribe-annotation__a
-!
