@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 18 may 2017 10:54 CET
+! Last modified: 26 may 2017 20:20 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: STG
@@ -40,6 +40,7 @@ tv4embed.com###bannerfloat2
 filmon.com##.subscribe-annotation__a
 
 !---batmanstream.com---!
+||tipshunter.net/assets/js/competition.js$script
 live.robinwidget.org###ad
 live.robinwidget.org##.banner-1 > div
 live.robinwidget.org##.banner-4 > div
