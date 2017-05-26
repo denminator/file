@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 26 may 2017 20:20 CET
+! Last modified: 26 may 2017 20:43 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: STG
@@ -49,3 +49,7 @@ live.robinwidget.org##.left-block
 ||live.robinwidget.org/images/77x360.gif$image
 ||www.batmanstream.com/static/images/FP-S2W.gif?v=3$image
 ||www.batmanstream.com/static/images/watch-now.png$image
+www.batmanstream.com##tr:nth-of-type(4) > td
+||st.chatango.com/js/gz/emb.js$script,domain=www.batmanstream.com
+||s3.amazonaws.com/www.adnigma.com/TemplateRun/js/DialogTag.js$script,domain=www.batmanstream.com
+||www.batmanstream.com/static/images/live_now.png$image
