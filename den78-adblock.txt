@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 26 may 2017 21:07 CET
+! Last modified: 27 may 2017 19:18 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: STG
@@ -14,10 +14,6 @@ titlovi.com##a[href^="http://mojtv.net/"]
 
 !---prijevodi-online.org---!
 ||vid4u.org$domain=www.prijevodi-online.org
-
-!---Pop-ups---!
-||cloudfront.net$domain=psarips.com
-||cloudfront.net$domain=www.balkandownload.org
 
 !---opensubtitles.org---!
 www.opensubtitles.org###lightSub
@@ -52,3 +48,7 @@ live.robinwidget.org##.left-block
 www.batmanstream.com##tr:nth-of-type(4) > td
 ||s3.amazonaws.com/www.adnigma.com/TemplateRun/js/DialogTag.js$script,domain=www.batmanstream.com
 ||www.batmanstream.com/static/images/live_now.png$image
+
+!---psarips.com---!
+||www.zkzpfpoazfgq.com$script,domain=psarips.com
+||www.vvgttgprssiy.com$script,domain=psarips.com
