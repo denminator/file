@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 27 may 2017 19:18 CET
+! Last modified: 27 may 2017 09:55 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: STG
@@ -52,3 +52,5 @@ www.batmanstream.com##tr:nth-of-type(4) > td
 !---psarips.com---!
 ||www.zkzpfpoazfgq.com$script,domain=psarips.com
 ||www.vvgttgprssiy.com$script,domain=psarips.com
+||ilrxikdjozlk.com$script,domain=psarips.com
+||cpdoalzgwnwf.com$script,domain=psarips.com
