@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 1 june 2017 23:48 CET
+! Last modified: 19 june 2017 04:26 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
-! Licence: STG
+! Licence: Dani
 
 !---rarbg.to---!
 @@||dyncdn.me/static/20/js$script,domain=rarbg.to
@@ -50,5 +50,5 @@ www.batmanstream.com##tr:nth-of-type(4) > td
 ||www.batmanstream.com/static/images/live_now.png$image
 
 !---pop-ups---!
-about:blank$popup,domain=psarips.com|www.mkvcage.com|pahe.in|www.balkandownload.org
-||cloudfront.net^$domain=psarips.com|www.mkvcage.com|pahe.in|www.balkandownload.org
+! about:blank$popup,domain=psarips.com|www.mkvcage.com|pahe.in|www.balkandownload.org
+! ||cloudfront.net^$domain=psarips.com|www.mkvcage.com|pahe.in|www.balkandownload.org
