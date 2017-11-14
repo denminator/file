@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 14 nov 2017 21:40 CET
+! Last modified: 14 nov 2017 21:55 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: Dani
@@ -19,36 +19,12 @@ titlovi.com##a[href^="http://mojtv.net/"]
 www.opensubtitles.org###lightSub
 www.opensubtitles.org###fadeSub
 
-!---liveonlinetv247.info---!
-www.liveonlinetv247.info###bannerfloat1
-www.liveonlinetv247.info###bannerfloat2
-||creative.speednetwork1.com$script,domain=www.liveonlinetv247.info
-
-!---livesport.pw---!
-||static.livesport.pw/loader.js$script,first-party
-
-!---tv4embed.com---!
-realmadridlive.in###vad
-tv4embed.com###bannerfloat5
-tv4embed.com###bannerfloat2
-
 !---filmon.com---!
 filmon.com##.subscribe-annotation__a
 
 !---batmanstream.com---!
-||tipshunter.net/assets/js/competition.js$script
-live.robinwidget.org###ad
-live.robinwidget.org##.banner-1 > div
-live.robinwidget.org##.banner-4 > div
-live.robinwidget.org##.left-block > div:nth-of-type(2)
-live.robinwidget.org##.left-block
-||live.robinwidget.org/images/77x360.gif$image
-||www.batmanstream.com/static/images/FP-S2W.gif?v=3$image
-||www.batmanstream.com/static/images/watch-now.png$image
-www.batmanstream.com##tr:nth-of-type(4) > td
-||s3.amazonaws.com/www.adnigma.com/TemplateRun/js/DialogTag.js$script,domain=www.batmanstream.com
-||www.batmanstream.com/static/images/live_now.png$image
 live.livewidget.net###no_flash
+live.livewidget.net##.left-block
 
 !---pop-ups---!
 ! about:blank$popup,domain=psarips.com|www.mkvcage.com|pahe.in|www.balkandownload.org
