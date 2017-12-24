@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 24 dec 2017 22:20 CET
+! Last modified: 25 dec 2017 00:49 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: Dani
@@ -38,3 +38,4 @@ www.balkandownload.org###content > .message
 www.balkandownload.org##.clearfix.general_box.ipsSideBlock
 www.balkandownload.org###mot_body
 www.balkandownload.org##.statistics_head:nth-of-type(2)
+www.balkandownload.org##.igra
