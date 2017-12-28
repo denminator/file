@@ -1,12 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 28 dec 2017 00:54 CET
+! Last modified: 28 dec 2017 01:34 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: Dani
-
-!---rarbg.to---!
-@@||dyncdn.me/static/20/js$script,domain=rarbg.to
 
 !---titlovi.com---!
 ||www.povezano.com$script,domain=titlovi.com
