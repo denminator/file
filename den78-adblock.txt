@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 13 feb 2018 03:00 CET
+! Last modified: 14 feb 2018 19:10 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: Dani
@@ -8,6 +8,15 @@
 !---titlovi.com---!
 ||www.povezano.com$script,domain=titlovi.com
 titlovi.com##a[href^="http://mojtv.net/"]
+titlovi.com#@#.pub_300x250
+titlovi.com#@#.pub_300x250m
+titlovi.com#@#.pub_728x90
+titlovi.com#@#.text-ad
+titlovi.com#@#.textAd
+titlovi.com#@#.text_ad
+titlovi.com#@#.text_ads
+titlovi.com#@#.text-ads
+titlovi.com#@#.text-ad-links
 
 !---prijevodi-online.org---!
 ||vid4u.org$domain=www.prijevodi-online.org
