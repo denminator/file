@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 14 feb 2018 19:10 CET
+! Last modified: 13 mar 2018 11:15 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: Dani
@@ -29,8 +29,8 @@ www.opensubtitles.org###fadeSub
 filmon.com##.subscribe-annotation__a
 
 !---batmanstream.net---!
-live.livewidget.net###no_flash
-live.livewidget.net##.left-block
+live.drakulawidget.com###no_flash
+live.drakulawidget.com##.left-block
 www.batmanstream.net##a[href^="http://p262182.inclk.com/itab/sa"]
 ||www.batmanstream.net/zenbet.html$popup,domain=www.batmanstream.net
 ||www.lshstreams.com/bet2.php$popup
