@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 19 jun 2018 15:05 CET
+! Last modified: 19 jun 2018 15:20 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: Dani
@@ -35,14 +35,6 @@ www.batmanstream.net##a[href^="http://p262182.inclk.com/itab/sa"]
 ||www.batmanstream.net/zenbet.html$popup,domain=www.batmanstream.net
 ||www.lshstreams.com/bet2.php$popup
 www.batmanstream.net##.sofascore-live-stream
-||imageshack.host^$image,domain=www.zorrostream.net
-||wwwzorrostreamnet.imageshack.host^$image,domain=www.zorrostream.net
-||clksite.com^$script,domain=www.zorrostream.net
-||004.0x1f4b8.com^$script,domain=www.zorrostream.net
-||www.liqwid.net^$script,domain=www.zorrostream.net
-||freegeoip.net^$xmlhttprequest,domain=www.zorrostream.net
-||r21.px3792.com^$script,domain=www.zorrostream.net
-||cdn.newsapi.com.au^$image,domain=www.zorrostream.net
 
 !---psarips.com---!
 psarips.com###onesignal-popover-dialog
