@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 7 avg 2018 16:45 CET
+! Last modified: 7 avg 2018 16:47 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: Dani
@@ -31,6 +31,7 @@ filmon.com##.subscribe-annotation__a
 !---jokerlivestream.com---!
 live.harleyquinnwidget.com###no_flash
 live.harleyquinnwidget.com##.left-block
+www.jokerlivestream.com###sofascore-live-stream
 
 !---psarips.com---!
 psarips.com###onesignal-popover-dialog
