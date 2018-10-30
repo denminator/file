@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 30 oct 2018 14:20 CET
+! Last modified: 30 oct 2018 14:27 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: Dani
@@ -39,7 +39,9 @@ live.harleyquinnwidget.com##.sofascore-live-stream
 live.harleyquinnwidget.com##.sofabanner
 
 !---psarips.com---!
-||psarips.com/wp-content/plugins/weather-effect/*$script,first-party
+||psarips.com/wp-content/plugins/weather-effect/js/snowfall-master/snowfall-master.min.js$script,first-party
+||psarips.com/wp-content/plugins/weather-effect/js/snow-falling/snow-falling.js$script,first-party
+||psarips.com/wp-content/plugins/weather-effect/js/christmas-snow/christmas-snow.js$script,first-party
 
 !---balkandownload.org---!
 www.balkandownload.org##.__xXdonacije.ipsSideBlock
