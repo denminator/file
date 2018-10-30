@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 24 oct 2018 15:55 CET
+! Last modified: 30 oct 2018 14:20 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: Dani
@@ -18,6 +18,7 @@ titlovi.com#@#.text_ads
 titlovi.com#@#.text-ads
 titlovi.com#@#.text-ad-links
 ||static.titlovi.com/titlovicom/Content/preloader.min.css$stylesheet,first-party
+titlovi.com###widget_container
 
 !---prijevodi-online.org---!
 ||vid4u.org$domain=www.prijevodi-online.org
@@ -38,8 +39,7 @@ live.harleyquinnwidget.com##.sofascore-live-stream
 live.harleyquinnwidget.com##.sofabanner
 
 !---psarips.com---!
-psarips.com###onesignal-popover-dialog
-||psarips.com/wp-content/plugins/wp-snow-effect/public/js/jsnow.js$script,first-party
+||psarips.com/wp-content/plugins/weather-effect/*$script,first-party
 
 !---balkandownload.org---!
 www.balkandownload.org##.__xXdonacije.ipsSideBlock
