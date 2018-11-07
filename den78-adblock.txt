@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 30 oct 2018 14:30 CET
+! Last modified: 07 nov 2018 00:55 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: Dani
@@ -64,6 +64,7 @@ www.facebook.com###mobile_mirror_banner
 
 !---pastebin.com---!
 pastebin.com###paypal-overlay
+pastebin.com###float-box-frame
 
 !---rarbg2018.org---!
 |https://$script,third-party,domain=rarbg2018.org
