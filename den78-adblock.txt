@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: den78
-! Last modified: 17 may 2019 21:30 CET
+! Last modified: 12 july 2019 17:20 CET
 ! Expires: 1 days (update frequency)
 ! Homepage: startrekgate24.blogspot.com
 ! Licence: Dani
@@ -42,6 +42,7 @@ live.harleyquinnwidget.net###no_flash
 live.harleyquinnwidget.net##.sofascore-live-stream
 live.harleyquinnwidget.net##.sofabanner
 live.harleyquinnwidget.net##[src="/images/pk3.png"]
+www.jokerlivestream.com###iframe_preview
 
 !---balkandownload.org---!
 www.balkandownload.org##.__xXdonacije.ipsSideBlock
